@@ -12,7 +12,7 @@ class LbolReader(object):
             try:
                 self.fname = os.path.join(path, mname+".lbol")
                 self.process_lbol_file()
-            except:
+            except OSError:
                 print(f'There is no data for {mname}.lbol')
         else:
             print("You have no data directory")

@@ -171,7 +171,7 @@ def reading_results(path="standart_data", data='results_SALT.txt'):
             file = os.path.join(path, data)
             read = ResReader(file)
             return read
-        except:
+        except OSError:
             print('There is no results for SALT')
     else:
         print("You have no standart_data directory")
@@ -270,7 +270,7 @@ def plot_tb(lbol_read, fig=None, path_to_save="graphics"):
         os.mkdir(path_to_save)
         path = os.path.join(path_to_save,"tb.eps")
         plt.savefig(path, format='eps', dpi=300)
-    return ta
+    return tb
 
 
 def show_pf_relation(mag_read, fig=None, m15 = np.arange(0.7, 1.85, 0.1), path_to_save="graphics"):

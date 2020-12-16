@@ -12,7 +12,7 @@ class MagReader(object):
             try:
                 self.fname = os.path.join(path, mname+".tt")
                 self.process_tt_file()
-            except:
+            except OSError:
                 print(f'There is no data for {mname}.tt')
         else:
             print("You have no data directory")
