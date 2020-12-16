@@ -1,0 +1,104 @@
+   EPS   (STIFF ACCURACY)   HMIN (MIN.STEP(SEC)) HMAX (MAX.STEP(SEC))
+   0.1                      1.D-11              3.d4
+   METH  ADAMS(1)-GEAR(2)   JSTART  (0-START_ELSE_ORDER) MAXORD KNadap
+   3                        0                            4       -4
+   abs(NSTA)>abs(NSTB)=>reads last   TcurA     TcurB
+   -3600    -1                       0.      200.
+   NSTMAX  NDebug  NOUT    IOUT (0 -full <0 print zones)   MBATCH
+   72000   100000  100     -1                              900
+   AMNI (CONTAM. MASS)     XMNI (56NI MASS)
+   0.8d-0                  0.40
+   AMHT(Solar)  EBurst(1e50) tBurst(s)  tstart  -- Heated Core, Energy & time
+   6.d-02     	   0.000000        1.d-0        0.d0 
+   EKO (kin.energy,1e50) mass fract.tri. u profile  us (out +1)                 
+   0.                    .0   2.E-3  8.E-3          +1.                         
+   THRMAT   CRAP     CONV     EDTM     CHNCND  Givdtl                           
+   1.D-30   1.D0     F        T        T       F
+   FLOOR(R) FLOOR(V) FLOOR(T) FLOOR(RADIAT)    FLOOR(UCONV)
+   1.D-08   1.D-03   3.D-02   1.D-01           1.D-04
+   Wacc(R)  Wacc(V)  Wacc(T)  Wacc(RADIAT)
+   1.D-04   1.D-00   3.D-02   1.D-03
+   FitTau   TAUTOL   Rvis   AQ    BQ     DRT     NRT     SCAT
+   3.D02    1.3D0    1.D0  2.D0  1.D0    1.      1       T
+    NTO then    DATA TO
+    80
+    2.5000d-01 
+    5.0000d-01 
+    7.5000d-01 
+    1.0000d+00
+    1.25d+00 
+    1.5d+00 
+    2.d0 
+    3.d0
+    4.d0
+    5.d0
+    6.d0
+    8.d0      
+    10.d0
+    11.d0
+    12.d0
+    13.d0
+    14.d0
+    15.d0
+    16.d0
+    17.d0
+    18.d0
+    19.d0
+    20.d0
+    21.d0
+    22.d0
+    23.d0
+    24.d0
+    25.d0
+    26.d0
+    27.d0
+    28.d0
+    29.d0
+    30.d0
+    31.d0
+    32.d0
+    33.d0
+    34.d0
+    35.d0
+    36.d0
+    37.d0
+    38.d0
+    39.d0
+    40.d0
+    41.d0
+    42.d0
+    43.d0
+    44.d0
+    45.d0
+    46.d0
+    47.d0
+    48.d0
+    49.d0
+    50.d0
+    51.d0
+    52.d0
+    53.d0
+    54.d0
+    55.d0
+    56.d0
+    57.d0
+    58.d0
+    59.d0
+    60.d0
+    61.d0
+    62.d0
+    63.d0
+    64.d0
+    65.d0
+    66.d0
+    67.d0
+    68.d0
+    69.d0
+    70.d0
+    71.d0
+    72.d0
+    73.d0
+    74.d0
+    7.5d1
+    9.d1
+    1.2d2

@@ -1,0 +1,293 @@
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+    0      3.249E-03      3.966E-09      8.626E-07     -8.283E-07      3.249E-03       0.00          3.249E-03       0.00          9.158E-03
+#ENERGY BALANCE AT OBS. TIME =        0.11124  DAYS :     0.00000E+00
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+  300      3.249E-03      1.296E-09      1.041E-06     -8.302E-07      3.249E-03      1.722E-07      3.249E-03      2.431E-07      1.022E-02
+#ENERGY BALANCE AT OBS. TIME =        0.12407  DAYS :     7.48015E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+  600      3.249E-03      1.288E-09      1.112E-06     -8.166E-07      3.250E-03      2.608E-07      3.249E-03      2.554E-07      1.076E-02
+#ENERGY BALANCE AT OBS. TIME =        0.13068  DAYS :     7.85983E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+  900      3.249E-03      1.305E-09      1.180E-06     -8.135E-07      3.250E-03      3.440E-07      3.249E-03      2.550E-07      1.127E-02
+#ENERGY BALANCE AT OBS. TIME =        0.13688  DAYS :     7.84700E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 1200      3.249E-03      1.311E-09      1.255E-06     -8.303E-07      3.250E-03      4.186E-07      3.249E-03      2.461E-07      1.173E-02
+#ENERGY BALANCE AT OBS. TIME =        0.14246  DAYS :     7.57427E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 1500      3.249E-03      1.336E-09      1.301E-06     -8.211E-07      3.250E-03      4.873E-07      3.249E-03      2.407E-07      1.216E-02
+#ENERGY BALANCE AT OBS. TIME =        0.14759  DAYS :     7.40698E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 1800      3.249E-03      1.364E-09      1.381E-06     -8.581E-07      3.250E-03      5.549E-07      3.249E-03      2.246E-07      1.258E-02
+#ENERGY BALANCE AT OBS. TIME =        0.15264  DAYS :     6.91037E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 2100      3.249E-03      1.389E-09      1.417E-06     -8.453E-07      3.250E-03      6.132E-07      3.249E-03      2.225E-07      1.294E-02
+#ENERGY BALANCE AT OBS. TIME =        0.15701  DAYS :     6.84574E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 2400      3.249E-03      1.415E-09      1.471E-06     -8.560E-07      3.250E-03      6.762E-07      3.249E-03      2.134E-07      1.332E-02
+#ENERGY BALANCE AT OBS. TIME =        0.16172  DAYS :     6.56602E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 2700      3.249E-03      1.437E-09      1.530E-06     -8.840E-07      3.250E-03      7.311E-07      3.249E-03      1.976E-07      1.366E-02
+#ENERGY BALANCE AT OBS. TIME =        0.16582  DAYS :     6.07907E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 3000      3.249E-03      1.456E-09      1.577E-06     -8.928E-07      3.250E-03      7.806E-07      3.249E-03      1.952E-07      1.397E-02
+#ENERGY BALANCE AT OBS. TIME =        0.16953  DAYS :     6.00623E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 3300      3.249E-03      1.475E-09      1.585E-06     -8.500E-07      3.250E-03      8.345E-07      3.249E-03      2.028E-07      1.430E-02
+#ENERGY BALANCE AT OBS. TIME =        0.17357  DAYS :     6.23932E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 3600      3.249E-03      1.495E-09      1.632E-06     -8.563E-07      3.250E-03      8.919E-07      3.249E-03      1.985E-07      1.466E-02
+#ENERGY BALANCE AT OBS. TIME =        0.17787  DAYS :     6.10743E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 3900      3.249E-03      1.512E-09      1.668E-06     -8.531E-07      3.250E-03      9.434E-07      3.249E-03      1.972E-07      1.498E-02
+#ENERGY BALANCE AT OBS. TIME =        0.18173  DAYS :     6.06820E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 4200      3.249E-03      1.529E-09      1.682E-06     -8.180E-07      3.250E-03      9.996E-07      3.249E-03      2.032E-07      1.532E-02
+#ENERGY BALANCE AT OBS. TIME =        0.18595  DAYS :     6.25294E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 4500      3.249E-03      1.546E-09      1.726E-06     -8.238E-07      3.250E-03      1.057E-06      3.249E-03      1.986E-07      1.568E-02
+#ENERGY BALANCE AT OBS. TIME =        0.19023  DAYS :     6.11087E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 4800      3.249E-03      1.560E-09      1.758E-06     -8.184E-07      3.250E-03      1.108E-06      3.249E-03      1.983E-07      1.599E-02
+#ENERGY BALANCE AT OBS. TIME =        0.19406  DAYS :     6.09934E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 5100      3.249E-03      1.575E-09      1.778E-06     -7.921E-07      3.250E-03      1.164E-06      3.249E-03      2.036E-07      1.634E-02
+#ENERGY BALANCE AT OBS. TIME =        0.19826  DAYS :     6.26461E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 5400      3.249E-03      1.591E-09      1.821E-06     -7.963E-07      3.250E-03      1.221E-06      3.249E-03      2.000E-07      1.670E-02
+#ENERGY BALANCE AT OBS. TIME =        0.20257  DAYS :     6.15379E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 5700      3.249E-03      1.606E-09      1.853E-06     -7.886E-07      3.251E-03      1.277E-06      3.249E-03      1.999E-07      1.704E-02
+#ENERGY BALANCE AT OBS. TIME =        0.20678  DAYS :     6.14904E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 6000      3.249E-03      1.621E-09      1.875E-06     -7.661E-07      3.251E-03      1.334E-06      3.249E-03      2.044E-07      1.740E-02
+#ENERGY BALANCE AT OBS. TIME =        0.21104  DAYS :     6.28748E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 6300      3.250E-03      1.638E-09      1.916E-06     -7.683E-07      3.251E-03      1.394E-06      3.249E-03      2.007E-07      1.777E-02
+#ENERGY BALANCE AT OBS. TIME =        0.21556  DAYS :     6.17532E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 6600      3.250E-03      1.653E-09      1.947E-06     -7.614E-07      3.251E-03      1.448E-06      3.249E-03      2.007E-07      1.811E-02
+#ENERGY BALANCE AT OBS. TIME =        0.21966  DAYS :     6.17394E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 6900      3.250E-03      1.669E-09      1.971E-06     -7.420E-07      3.251E-03      1.505E-06      3.249E-03      2.051E-07      1.846E-02
+#ENERGY BALANCE AT OBS. TIME =        0.22393  DAYS :     6.30943E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 7200      3.250E-03      1.686E-09      2.009E-06     -7.425E-07      3.251E-03      1.565E-06      3.249E-03      2.025E-07      1.883E-02
+#ENERGY BALANCE AT OBS. TIME =        0.22847  DAYS :     6.22770E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 7500      3.250E-03      1.703E-09      2.043E-06     -7.372E-07      3.251E-03      1.625E-06      3.249E-03      2.018E-07      1.920E-02
+#ENERGY BALANCE AT OBS. TIME =        0.23297  DAYS :     6.20883E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 7800      3.250E-03      1.719E-09      2.066E-06     -7.192E-07      3.251E-03      1.679E-06      3.249E-03      2.059E-07      1.954E-02
+#ENERGY BALANCE AT OBS. TIME =        0.23707  DAYS :     6.33399E-05
+ 7987      3.250E-03      1.729E-09      2.087E-06     -7.149E-07      3.251E-03      1.590E-06      3.249E-03      3.340E-07      1.979E-02
+#ENERGY BALANCE AT OBS. TIME =        0.24000  DAYS :     1.02737E-04
+ 7987      3.250E-03      1.729E-09      2.087E-06     -7.149E-07      3.251E-03      1.590E-06      3.249E-03      3.340E-07      1.979E-02
+#ENERGY BALANCE AT OBS. TIME =        0.24000  DAYS :     1.02737E-04
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 8100      3.250E-03      1.736E-09      2.101E-06     -7.151E-07      3.251E-03      1.741E-06      3.249E-03      2.047E-07      1.993E-02
+#ENERGY BALANCE AT OBS. TIME =        0.24171  DAYS :     6.29738E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 8400      3.250E-03      1.751E-09      2.137E-06     -7.145E-07      3.251E-03      1.800E-06      3.249E-03      2.027E-07      2.029E-02
+#ENERGY BALANCE AT OBS. TIME =        0.24615  DAYS :     6.23335E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 8700      3.250E-03      1.766E-09      2.164E-06     -6.977E-07      3.251E-03      1.861E-06      3.249E-03      2.068E-07      2.067E-02
+#ENERGY BALANCE AT OBS. TIME =        0.25077  DAYS :     6.35990E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 9000      3.250E-03      1.780E-09      2.197E-06     -6.884E-07      3.251E-03      1.924E-06      3.249E-03      2.080E-07      2.107E-02
+#ENERGY BALANCE AT OBS. TIME =        0.25556  DAYS :     6.39679E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 9300      3.250E-03      1.792E-09      2.234E-06     -6.885E-07      3.251E-03      1.987E-06      3.249E-03      2.051E-07      2.146E-02
+#ENERGY BALANCE AT OBS. TIME =        0.26025  DAYS :     6.30737E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 9600      3.250E-03      1.802E-09      2.263E-06     -6.770E-07      3.251E-03      2.048E-06      3.249E-03      2.071E-07      2.184E-02
+#ENERGY BALANCE AT OBS. TIME =        0.26486  DAYS :     6.36954E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+ 9900      3.250E-03      1.809E-09      2.292E-06     -6.621E-07      3.251E-03      2.112E-06      3.249E-03      2.111E-07      2.224E-02
+#ENERGY BALANCE AT OBS. TIME =        0.26973  DAYS :     6.49359E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+10200      3.250E-03      1.814E-09      2.327E-06     -6.576E-07      3.251E-03      2.177E-06      3.249E-03      2.101E-07      2.265E-02
+#ENERGY BALANCE AT OBS. TIME =        0.27469  DAYS :     6.46165E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+10500      3.250E-03      1.815E-09      2.362E-06     -6.544E-07      3.252E-03      2.240E-06      3.249E-03      2.085E-07      2.304E-02
+#ENERGY BALANCE AT OBS. TIME =        0.27945  DAYS :     6.41377E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+10800      3.250E-03      1.810E-09      2.391E-06     -6.410E-07      3.252E-03      2.305E-06      3.249E-03      2.118E-07      2.345E-02
+#ENERGY BALANCE AT OBS. TIME =        0.28435  DAYS :     6.51451E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+11100      3.250E-03      1.800E-09      2.422E-06     -6.272E-07      3.252E-03      2.372E-06      3.249E-03      2.157E-07      2.387E-02
+#ENERGY BALANCE AT OBS. TIME =        0.28944  DAYS :     6.63393E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+11400      3.250E-03      1.785E-09      2.457E-06     -6.204E-07      3.252E-03      2.441E-06      3.249E-03      2.159E-07      2.430E-02
+#ENERGY BALANCE AT OBS. TIME =        0.29465  DAYS :     6.63877E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+11700      3.250E-03      3.047E-09      2.492E-06     -6.166E-07      3.252E-03      2.510E-06      3.249E-03      2.144E-07      2.473E-02
+#ENERGY BALANCE AT OBS. TIME =        0.29987  DAYS :     6.59267E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+12000      3.250E-03      3.050E-09      2.525E-06     -6.077E-07      3.252E-03      2.578E-06      3.249E-03      2.158E-07      2.515E-02
+#ENERGY BALANCE AT OBS. TIME =        0.30504  DAYS :     6.63590E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+12300      3.250E-03      3.054E-09      2.557E-06     -5.945E-07      3.252E-03      2.646E-06      3.249E-03      2.202E-07      2.558E-02
+#ENERGY BALANCE AT OBS. TIME =        0.31024  DAYS :     6.77115E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+12600      3.250E-03      3.058E-09      2.591E-06     -5.817E-07      3.252E-03      2.717E-06      3.249E-03      2.248E-07      2.602E-02
+#ENERGY BALANCE AT OBS. TIME =        0.31557  DAYS :     6.91395E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+12900      3.250E-03      3.062E-09      2.625E-06     -5.691E-07      3.252E-03      2.789E-06      3.249E-03      2.294E-07      2.647E-02
+#ENERGY BALANCE AT OBS. TIME =        0.32104  DAYS :     7.05437E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+13200      3.250E-03      3.066E-09      2.659E-06     -5.546E-07      3.252E-03      2.861E-06      3.249E-03      2.356E-07      2.693E-02
+#ENERGY BALANCE AT OBS. TIME =        0.32659  DAYS :     7.24416E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+13500      3.250E-03      3.544E-09      2.693E-06     -5.348E-07      3.252E-03      2.936E-06      3.249E-03      2.461E-07      2.740E-02
+#ENERGY BALANCE AT OBS. TIME =        0.33228  DAYS :     7.56574E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+13800      3.250E-03      3.553E-09      2.725E-06     -5.070E-07      3.252E-03      3.013E-06      3.249E-03      2.634E-07      2.789E-02
+#ENERGY BALANCE AT OBS. TIME =        0.33814  DAYS :     8.09788E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+14100      3.250E-03      3.560E-09      2.754E-06     -4.697E-07      3.252E-03      3.097E-06      3.249E-03      2.879E-07      2.841E-02
+#ENERGY BALANCE AT OBS. TIME =        0.34450  DAYS :     8.85167E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+14400      3.250E-03      3.564E-09      2.780E-06     -4.214E-07      3.253E-03      3.191E-06      3.249E-03      3.197E-07      2.900E-02
+#ENERGY BALANCE AT OBS. TIME =        0.35166  DAYS :     9.83044E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+14700      3.250E-03      3.564E-09      2.806E-06     -3.604E-07      3.253E-03      3.301E-06      3.249E-03      3.632E-07      2.970E-02
+#ENERGY BALANCE AT OBS. TIME =        0.36009  DAYS :     1.11668E-04
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+15000      3.250E-03      3.553E-09      2.828E-06     -2.823E-07      3.253E-03      3.460E-06      3.249E-03      4.119E-07      3.070E-02
+#ENERGY BALANCE AT OBS. TIME =        0.37223  DAYS :     1.26634E-04
+15183      3.251E-03      5.921E-09      3.561E-06     -1.575E-07      3.255E-03      4.858E-06      3.249E-03      6.936E-07      4.163E-02
+#ENERGY BALANCE AT OBS. TIME =        0.50000  DAYS :     2.13103E-04
+15183      3.251E-03      5.921E-09      3.561E-06     -1.575E-07      3.255E-03      4.858E-06      3.249E-03      6.936E-07      4.163E-02
+#ENERGY BALANCE AT OBS. TIME =        0.50000  DAYS :     2.13103E-04
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+15300      3.252E-03      9.004E-09      4.693E-06     -1.130E-07      3.257E-03      7.428E-06      3.249E-03      4.316E-07      5.611E-02
+#ENERGY BALANCE AT OBS. TIME =        0.68012  DAYS :     1.32503E-04
+15441      3.254E-03      1.748E-08      6.624E-06     -7.566E-08      3.261E-03      1.092E-05      3.249E-03      9.569E-07      8.288E-02
+#ENERGY BALANCE AT OBS. TIME =        1.00000  DAYS :     2.93451E-04
+15441      3.254E-03      1.748E-08      6.624E-06     -7.566E-08      3.261E-03      1.092E-05      3.249E-03      9.569E-07      8.288E-02
+#ENERGY BALANCE AT OBS. TIME =        1.00000  DAYS :     2.93451E-04
+15536      3.258E-03      2.225E-08      9.452E-06     -4.982E-08      3.267E-03      1.674E-05      3.249E-03      1.158E-06      0.124    
+#ENERGY BALANCE AT OBS. TIME =        1.50000  DAYS :     3.54495E-04
+15536      3.258E-03      2.225E-08      9.452E-06     -4.982E-08      3.267E-03      1.674E-05      3.249E-03      1.158E-06      0.124    
+#ENERGY BALANCE AT OBS. TIME =        1.50000  DAYS :     3.54495E-04
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+15600      3.260E-03      1.770E-07      1.173E-05     -3.785E-08      3.272E-03      2.271E-05      3.249E-03      4.660E-07      0.162    
+#ENERGY BALANCE AT OBS. TIME =        1.95932  DAYS :     1.42407E-04
+15614      3.261E-03      1.815E-07      1.193E-05     -3.705E-08      3.273E-03      2.224E-05      3.249E-03      1.391E-06      0.165    
+#ENERGY BALANCE AT OBS. TIME =        2.00000  DAYS :     4.24999E-04
+15614      3.261E-03      1.815E-07      1.193E-05     -3.705E-08      3.273E-03      2.224E-05      3.249E-03      1.391E-06      0.165    
+#ENERGY BALANCE AT OBS. TIME =        2.00000  DAYS :     4.24999E-04
+15688      3.267E-03      4.448E-07      1.643E-05     -2.439E-08      3.283E-03      3.262E-05      3.249E-03      1.704E-06      0.249    
+#ENERGY BALANCE AT OBS. TIME =        3.00000  DAYS :     5.19095E-04
+15688      3.267E-03      4.448E-07      1.643E-05     -2.439E-08      3.283E-03      3.262E-05      3.249E-03      1.704E-06      0.249    
+#ENERGY BALANCE AT OBS. TIME =        3.00000  DAYS :     5.19095E-04
+15764      3.272E-03      1.278E-06      1.979E-05     -1.811E-08      3.293E-03      4.201E-05      3.249E-03      2.097E-06      0.333    
+#ENERGY BALANCE AT OBS. TIME =        4.00000  DAYS :     6.36761E-04
+15764      3.272E-03      1.278E-06      1.979E-05     -1.811E-08      3.293E-03      4.201E-05      3.249E-03      2.097E-06      0.333    
+#ENERGY BALANCE AT OBS. TIME =        4.00000  DAYS :     6.36761E-04
+15806      3.277E-03      2.365E-06      2.235E-05     -1.438E-08      3.302E-03      5.063E-05      3.249E-03      2.396E-06      0.415    
+#ENERGY BALANCE AT OBS. TIME =        5.00000  DAYS :     7.25570E-04
+15806      3.277E-03      2.365E-06      2.235E-05     -1.438E-08      3.302E-03      5.063E-05      3.249E-03      2.396E-06      0.415    
+#ENERGY BALANCE AT OBS. TIME =        5.00000  DAYS :     7.25570E-04
+15834      3.282E-03      3.986E-06      2.389E-05     -1.190E-08      3.310E-03      5.856E-05      3.249E-03      2.579E-06      0.498    
+#ENERGY BALANCE AT OBS. TIME =        6.00000  DAYS :     7.79048E-04
+15834      3.282E-03      3.986E-06      2.389E-05     -1.190E-08      3.310E-03      5.856E-05      3.249E-03      2.579E-06      0.498    
+#ENERGY BALANCE AT OBS. TIME =        6.00000  DAYS :     7.79048E-04
+15850      3.287E-03      5.033E-06      2.554E-05     -1.014E-08      3.318E-03      6.569E-05      3.249E-03      2.830E-06      0.582    
+#ENERGY BALANCE AT OBS. TIME =        7.00000  DAYS :     8.53171E-04
+15850      3.287E-03      5.033E-06      2.554E-05     -1.014E-08      3.318E-03      6.569E-05      3.249E-03      2.830E-06      0.582    
+#ENERGY BALANCE AT OBS. TIME =        7.00000  DAYS :     8.53171E-04
+15863      3.291E-03      6.158E-06      2.667E-05     -8.824E-09      3.324E-03      7.219E-05      3.249E-03      2.967E-06      0.661    
+#ENERGY BALANCE AT OBS. TIME =        8.00000  DAYS :     8.92638E-04
+15863      3.291E-03      6.158E-06      2.667E-05     -8.824E-09      3.324E-03      7.219E-05      3.249E-03      2.967E-06      0.661    
+#ENERGY BALANCE AT OBS. TIME =        8.00000  DAYS :     8.92638E-04
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+15900      3.295E-03      2.941E-05      4.757E-06     -8.012E-09      3.329E-03      7.888E-05      3.249E-03      8.250E-07      0.724    
+#ENERGY BALANCE AT OBS. TIME =        8.77711  DAYS :     2.47829E-04
+15912      3.296E-03      2.978E-05      4.750E-06     -7.805E-09      3.330E-03      7.908E-05      3.249E-03      1.885E-06      0.744    
+#ENERGY BALANCE AT OBS. TIME =        9.00000  DAYS :     5.66082E-04
+15912      3.296E-03      2.978E-05      4.750E-06     -7.805E-09      3.330E-03      7.908E-05      3.249E-03      1.885E-06      0.744    
+#ENERGY BALANCE AT OBS. TIME =        9.00000  DAYS :     5.66082E-04
+15944      3.299E-03      3.270E-05      3.339E-06     -6.985E-09      3.335E-03      8.540E-05      3.249E-03      9.672E-07      0.826    
+#ENERGY BALANCE AT OBS. TIME =       10.00000  DAYS :     2.89987E-04
+15944      3.299E-03      3.270E-05      3.339E-06     -6.985E-09      3.335E-03      8.540E-05      3.249E-03      9.672E-07      0.826    
+#ENERGY BALANCE AT OBS. TIME =       10.00000  DAYS :     2.89987E-04
+16085      3.315E-03      3.537E-05      1.485E-06     -4.586E-09      3.352E-03      1.004E-04      3.249E-03      2.209E-06       1.25    
+#ENERGY BALANCE AT OBS. TIME =       15.00000  DAYS :     6.59209E-04
+16085      3.315E-03      3.537E-05      1.485E-06     -4.586E-09      3.352E-03      1.004E-04      3.249E-03      2.209E-06       1.25    
+#ENERGY BALANCE AT OBS. TIME =       15.00000  DAYS :     6.59209E-04
+16147      3.324E-03      3.038E-05      2.968E-07     -3.403E-09      3.355E-03      1.050E-04      3.249E-03      1.028E-06       1.66    
+#ENERGY BALANCE AT OBS. TIME =       20.00000  DAYS :     3.06333E-04
+16147      3.324E-03      3.038E-05      2.968E-07     -3.403E-09      3.355E-03      1.050E-04      3.249E-03      1.028E-06       1.66    
+#ENERGY BALANCE AT OBS. TIME =       20.00000  DAYS :     3.06333E-04
+16186      3.330E-03      2.236E-05      4.355E-08     -2.702E-09      3.352E-03      1.032E-04      3.249E-03      4.397E-08       2.08    
+#ENERGY BALANCE AT OBS. TIME =       25.00000  DAYS :     1.31167E-05
+16186      3.330E-03      2.236E-05      4.355E-08     -2.702E-09      3.352E-03      1.032E-04      3.249E-03      4.397E-08       2.08    
+#ENERGY BALANCE AT OBS. TIME =       25.00000  DAYS :     1.31167E-05
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+16200      3.332E-03      1.681E-05      3.246E-08     -2.333E-09      3.349E-03      9.965E-05      3.249E-03      4.780E-07       2.38    
+#ENERGY BALANCE AT OBS. TIME =       28.82810  DAYS :     1.42732E-04
+16205      3.333E-03      1.538E-05      2.944E-08     -2.239E-09      3.348E-03      9.970E-05      3.249E-03     -4.631E-07       2.50    
+#ENERGY BALANCE AT OBS. TIME =       30.00000  DAYS :    -1.38301E-04
+16205      3.333E-03      1.538E-05      2.944E-08     -2.239E-09      3.348E-03      9.970E-05      3.249E-03     -4.631E-07       2.50    
+#ENERGY BALANCE AT OBS. TIME =       30.00000  DAYS :    -1.38301E-04
+16220      3.334E-03      1.087E-05      2.082E-08     -1.912E-09      3.345E-03      9.691E-05      3.249E-03     -6.317E-07       2.89    
+#ENERGY BALANCE AT OBS. TIME =       35.00000  DAYS :    -1.88818E-04
+16220      3.334E-03      1.087E-05      2.082E-08     -1.912E-09      3.345E-03      9.691E-05      3.249E-03     -6.317E-07       2.89    
+#ENERGY BALANCE AT OBS. TIME =       35.00000  DAYS :    -1.88818E-04
+16234      3.335E-03      8.328E-06      1.558E-08     -1.667E-09      3.344E-03      9.540E-05      3.249E-03     -7.681E-07       3.31    
+#ENERGY BALANCE AT OBS. TIME =       40.00000  DAYS :    -2.29715E-04
+16234      3.335E-03      8.328E-06      1.558E-08     -1.667E-09      3.344E-03      9.540E-05      3.249E-03     -7.681E-07       3.31    
+#ENERGY BALANCE AT OBS. TIME =       40.00000  DAYS :    -2.29715E-04
+16246      3.336E-03      6.791E-06      1.157E-08     -1.479E-09      3.343E-03      9.458E-05      3.249E-03     -9.322E-07       3.72    
+#ENERGY BALANCE AT OBS. TIME =       45.00000  DAYS :    -2.78867E-04
+16246      3.336E-03      6.791E-06      1.157E-08     -1.479E-09      3.343E-03      9.458E-05      3.249E-03     -9.322E-07       3.72    
+#ENERGY BALANCE AT OBS. TIME =       45.00000  DAYS :    -2.78867E-04
+16257      3.336E-03      5.839E-06      9.116E-09     -1.328E-09      3.342E-03      9.416E-05      3.249E-03     -1.090E-06       4.14    
+#ENERGY BALANCE AT OBS. TIME =       50.00000  DAYS :    -3.26280E-04
+16257      3.336E-03      5.839E-06      9.116E-09     -1.328E-09      3.342E-03      9.416E-05      3.249E-03     -1.090E-06       4.14    
+#ENERGY BALANCE AT OBS. TIME =       50.00000  DAYS :    -3.26280E-04
+16276      3.337E-03      4.973E-06      6.728E-09     -1.103E-09      3.342E-03      9.402E-05      3.249E-03     -1.355E-06       4.97    
+#ENERGY BALANCE AT OBS. TIME =       60.00000  DAYS :    -4.05349E-04
+16276      3.337E-03      4.973E-06      6.728E-09     -1.103E-09      3.342E-03      9.402E-05      3.249E-03     -1.355E-06       4.97    
+#ENERGY BALANCE AT OBS. TIME =       60.00000  DAYS :    -4.05349E-04
+16294      3.337E-03      4.272E-06      4.584E-09     -9.434E-10      3.341E-03      9.399E-05      3.249E-03     -1.747E-06       5.80    
+#ENERGY BALANCE AT OBS. TIME =       70.00000  DAYS :    -5.22972E-04
+16294      3.337E-03      4.272E-06      4.584E-09     -9.434E-10      3.341E-03      9.399E-05      3.249E-03     -1.747E-06       5.80    
+#ENERGY BALANCE AT OBS. TIME =       70.00000  DAYS :    -5.22972E-04
+16312      3.337E-03      3.654E-06      3.054E-09     -8.241E-10      3.341E-03      9.380E-05      3.249E-03     -2.025E-06       6.62    
+#ENERGY BALANCE AT OBS. TIME =       80.00000  DAYS :    -6.06073E-04
+16312      3.337E-03      3.654E-06      3.054E-09     -8.241E-10      3.341E-03      9.380E-05      3.249E-03     -2.025E-06       6.62    
+#ENERGY BALANCE AT OBS. TIME =       80.00000  DAYS :    -6.06073E-04
+16330      3.337E-03      3.284E-06      2.256E-09     -7.315E-10      3.341E-03      9.376E-05      3.249E-03     -2.249E-06       7.45    
+#ENERGY BALANCE AT OBS. TIME =       90.00000  DAYS :    -6.73134E-04
+16330      3.337E-03      3.284E-06      2.256E-09     -7.315E-10      3.341E-03      9.376E-05      3.249E-03     -2.249E-06       7.45    
+#ENERGY BALANCE AT OBS. TIME =       90.00000  DAYS :    -6.73134E-04
+16348      3.337E-03      2.926E-06      1.997E-09     -6.577E-10      3.340E-03      9.370E-05      3.249E-03     -2.474E-06       8.27    
+#ENERGY BALANCE AT OBS. TIME =      100.00000  DAYS :    -7.40668E-04
+16348      3.337E-03      2.926E-06      1.997E-09     -6.577E-10      3.340E-03      9.370E-05      3.249E-03     -2.474E-06       8.27    
+#ENERGY BALANCE AT OBS. TIME =      100.00000  DAYS :    -7.40668E-04
+16366      3.337E-03      2.620E-06      1.897E-09     -5.974E-10      3.340E-03      9.361E-05      3.249E-03     -2.646E-06       9.09    
+#ENERGY BALANCE AT OBS. TIME =      110.00000  DAYS :    -7.92064E-04
+16366      3.337E-03      2.620E-06      1.897E-09     -5.974E-10      3.340E-03      9.361E-05      3.249E-03     -2.646E-06       9.09    
+#ENERGY BALANCE AT OBS. TIME =      110.00000  DAYS :    -7.92064E-04
+16384      3.337E-03      2.369E-06      1.801E-09     -5.472E-10      3.340E-03      9.356E-05      3.249E-03     -2.805E-06       9.92    
+#ENERGY BALANCE AT OBS. TIME =      120.00000  DAYS :    -8.39930E-04
+16384      3.337E-03      2.369E-06      1.801E-09     -5.472E-10      3.340E-03      9.356E-05      3.249E-03     -2.805E-06       9.92    
+#ENERGY BALANCE AT OBS. TIME =      120.00000  DAYS :    -8.39930E-04
+16402      3.337E-03      2.122E-06      1.684E-09     -5.048E-10      3.340E-03      9.349E-05      3.249E-03     -2.955E-06       10.7    
+#ENERGY BALANCE AT OBS. TIME =      130.00000  DAYS :    -8.84745E-04
+16402      3.337E-03      2.122E-06      1.684E-09     -5.048E-10      3.340E-03      9.349E-05      3.249E-03     -2.955E-06       10.7    
+#ENERGY BALANCE AT OBS. TIME =      130.00000  DAYS :    -8.84745E-04
+16420      3.338E-03      1.902E-06      1.555E-09     -4.685E-10      3.339E-03      9.341E-05      3.249E-03     -3.071E-06       11.6    
+#ENERGY BALANCE AT OBS. TIME =      140.00000  DAYS :    -9.19727E-04
+16420      3.338E-03      1.902E-06      1.555E-09     -4.685E-10      3.339E-03      9.341E-05      3.249E-03     -3.071E-06       11.6    
+#ENERGY BALANCE AT OBS. TIME =      140.00000  DAYS :    -9.19727E-04
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+16500      3.338E-03      1.158E-06      8.787E-10     -3.549E-10      3.339E-03      9.303E-05      3.249E-03     -3.378E-06       15.2    
+#ENERGY BALANCE AT OBS. TIME =      184.51953  DAYS :    -1.01176E-03
+# nstep, Ekin, Eradd, Eterm, Egrav, Etot, Elost, Etot0, Baleng, t
+16800      3.338E-03      1.905E-07      2.613E-10     -1.861E-10      3.338E-03      9.248E-05      3.249E-03     -3.753E-06       29.0    
+#ENERGY BALANCE AT OBS. TIME =      350.94850  DAYS :    -1.12440E-03
+16859      3.338E-03      1.360E-07      2.463E-10     -1.702E-10      3.338E-03      9.244E-05      3.249E-03     -3.771E-06       31.7    
+#ENERGY BALANCE AT OBS. TIME =      383.67953  DAYS :    -1.12974E-03
