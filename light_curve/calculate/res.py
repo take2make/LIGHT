@@ -6,8 +6,8 @@ from .lbol_read import LbolReader
 from .parameters import Msun, c
 import matplotlib
 
-matplotlib.rcParams.update({'font.size': 12, 'figure.figsize':(10,9), 
-    'lines.linewidth': 1.5, 'figure.dpi': 300, 'lines.markersize' : 5})
+#matplotlib.rcParams.update({'font.size': 12, 'figure.figsize':(10,9), 
+    #'lines.linewidth': 1.5, 'figure.dpi': 300, 'lines.markersize' : 5})
 
 
 class ResReader(object):
@@ -183,7 +183,7 @@ def show_lbol(lbol_read, num, path_to_save="graphics", fig=None):
     """
     if fig is None:
         fig = plt.figure()
-    fig.set_size_inches(6, 5, forward=True)
+    #fig.set_size_inches(6, 5, forward=True)
 
     keys = list(lbol_read.keys())
     for name in keys[:num]:
@@ -214,7 +214,7 @@ def plot_ta(lbol_read, fig=None, path_to_save="graphics"):
     """
     if fig is None:
         fig = plt.figure()
-    fig.set_size_inches(6, 5, forward=True)
+    #fig.set_size_inches(6, 5, forward=True)
     ax = fig.gca()
     name = list(lbol_read.keys())
 
@@ -247,7 +247,7 @@ def plot_tb(lbol_read, fig=None, path_to_save="graphics"):
     """
     if fig is None:
         fig = plt.figure()
-    fig.set_size_inches(6, 5, forward=True)
+    #fig.set_size_inches(6, 5, forward=True)
     ax = fig.gca()
     name = list(lbol_read.keys())
     for i, mname in enumerate(name):
@@ -279,7 +279,7 @@ def show_pf_relation(mag_read, fig=None, m15 = np.arange(0.7, 1.85, 0.1), path_t
     """
     if fig is None:
         fig = plt.figure()
-    fig.set_size_inches(6, 5, forward=True)
+    #fig.set_size_inches(6, 5, forward=True)
 
     ax = fig.gca()
 

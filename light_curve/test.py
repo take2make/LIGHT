@@ -1,4 +1,4 @@
-from res import *
+from calculate.res import *
 import unittest
 import os
 
