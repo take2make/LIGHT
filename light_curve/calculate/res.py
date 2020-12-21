@@ -1,9 +1,9 @@
 import os
 import numpy as np
 import matplotlib.pyplot as plt
-from tt_read import MagReader
-from lbol_read import LbolReader
-from parameters import Msun, c
+from .tt_read import MagReader
+from .lbol_read import LbolReader
+from .parameters import Msun, c
 import matplotlib
 
 matplotlib.rcParams.update({'font.size': 12, 'figure.figsize':(10,9), 
@@ -294,6 +294,6 @@ def show_pf_relation(mag_read, fig=None, m15 = np.arange(0.7, 1.85, 0.1), path_t
         path = os.path.join(path_to_save,"PF.jpeg")
         plt.savefig(path, format='jpeg', dpi=300)
     else:
-        os.mdir(path_to_save)
+        os.mkdir(path_to_save)
         path = os.path.join(path_to_save,"PF.jpeg")
         plt.savefig(path, format='jpeg', dpi=300)

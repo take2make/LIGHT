@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from parameters import Msun, T_Ni, T_Co, C_Co, C_Ni
+from .parameters import Msun, T_Ni, T_Co, C_Co, C_Ni
 import os
 
 
@@ -43,8 +43,8 @@ class LbolReader(object):
             tb = self.tl[lbol_lni < eps][-1]
             lbol_ta = self.lbol[lbol_lni < eps][0]
             lbol_tb = self.lbol[lbol_lni < eps][-1]
-        except:
-            print('cannot find times')
+        except Exception as e:
+            print(f'cannot find times with error {e}')
             ta = 0
             tb = 0
             lbol_ta = 0

@@ -1,4 +1,4 @@
-from res import *
+from .calculate.res import *
 import argparse
 import os
 
@@ -40,11 +40,8 @@ def parsing():
         print(models.keys())
 
     if args.mod == 'salt':
-        try:
-            models = read.mname
-            print(models.keys())
-        except:
-            print('firstly read salt data')
+        models = read.mname
+        print(models.keys())
 
     if args.stand=='Plot':
         if args.mod == 'salt' and reading:
@@ -76,20 +73,14 @@ def parsing():
         show_lbol(lbol_read, args.showL)
 
     if args.ta:
-        try:
-            lbol_read = read_lbol_reader(models)
-            plot_ta(lbol_read)
-            plt.show()
-        except:
-            print('firstly read salt data')
+        lbol_read = read_lbol_reader(models)
+        plot_ta(lbol_read)
+        plt.show()
 
     if args.tb:
-        try:
-            lbol_read = read_lbol_reader(models)
-            plot_tb(lbol_read)
-            plt.show()
-        except:
-            print('firstly read salt data')
+        lbol_read = read_lbol_reader(models)
+        plot_tb(lbol_read)
+        plt.show()
 
 
 
