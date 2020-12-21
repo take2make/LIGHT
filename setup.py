@@ -3,9 +3,9 @@ import setuptools
 setuptools.setup(
     name="light", # Replace with your own username
     version="0.0.1",
-    author="Example Author",
-    author_email="author@example.com",
-    description="A small example package",
+    author="take2make",
+    author_email="lutixalex1998@gmail.com",
+    description="package for find times of lbol",
     long_description_content_type="text/markdown",
     packages=['light_curve','light_curve/calculate'],
     classifiers=[
