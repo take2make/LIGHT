@@ -232,12 +232,12 @@ def plot_ta(lbol_read, fig=None, path_to_save="graphics"):
     ax.grid(which='major', color='black', linestyle=':')
 
     if os.path.isdir(path_to_save):
-        path = os.path.join(path_to_save,"ta.eps")
-        plt.savefig(path, format='eps', dpi=300)
+        path = os.path.join(path_to_save,"ta.png")
+        plt.savefig(path, format='png', dpi=300)
     else:
         os.mkdir(path_to_save)
-        path = os.path.join(path_to_save,"ta.eps")
-        plt.savefig(path, format='eps', dpi=300)
+        path = os.path.join(path_to_save,"ta.png")
+        plt.savefig(path, format='png', dpi=300)
     return ta
 
 
