@@ -16,7 +16,7 @@ light --mod=all --pf
 
 light --mod=all --ta
 
-![alt text](https://github.com/take2make/LIGHT/blob/main/graphics/ta.eps)
+![alt text](https://github.com/take2make/LIGHT/blob/main/graphics/ta.png)
 
 light --read=/data/standart_data/results_SALT.txt --mod=salt --stand
 
